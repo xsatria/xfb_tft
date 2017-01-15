@@ -1,9 +1,9 @@
 /*
- * fbtestXX.c
  *
  * raspberrycompote.blogspot.com/2014/04/low-level-graphics-on-raspberry-pi.html
  *
  * Original work by J-P Rosti (a.k.a -rst- and 'Raspberry Compote')
+ * Modified with Text Support by Tommy Agustianto (satria.nt@gmail.com)
  *
  * Licensed under the Creative Commons Attribution 3.0 Unported License
  * (http://creativecommons.org/licenses/by/3.0/deed.en_US)
